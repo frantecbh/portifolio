@@ -2,7 +2,7 @@ import aboutImage from '../asset/about-image.jpg'
 
 export const About = () => {
   return (
-    <div className="max-w-6xl mx-auto my-12 h-screen" id="about">
+    <div className="max-w-6xl mx-auto my-12 " id="about">
       <div className="md:grid md:grid-cols-2 sm:py-16">
         <div className="mt-4 md:mt-0 text-left flex ">
           <div className="my-auto mx-6">

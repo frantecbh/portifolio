@@ -14,7 +14,7 @@ export const Hero = () => {
           <span className="primary-color">I´m a</span>
           <br />
           <TypeAnimation
-            sequence={['Desenvolvedor', 1000, 'Fullstack', 1000]}
+            sequence={['Desenvolvedor', 1000, 'Full Stack', 1000]}
             wrapper="span"
             speed={50}
             repeat={Infinity}
