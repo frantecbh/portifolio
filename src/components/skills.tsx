@@ -1,5 +1,3 @@
-import React from 'react'
-
 import tailwindcss from '../asset/tailwind.png'
 import nodejs from '../asset/node.png'
 import reactjs from '../asset/react.png'
