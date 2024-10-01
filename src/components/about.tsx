@@ -40,13 +40,13 @@ export const About = () => {
             </p>
           </div>
         </div>
-        <img
-          className="mx-auto rounded-3xl py-8 md:py-0"
-          width={300}
-          height={300}
-          src={aboutImage}
-          alt=""
-        />
+        <div className="hidden md:flex flex-1">
+          <img
+            className=" mx-auto rounded-3xl py-8 md:py-0 h-auto w-96"
+            src={aboutImage}
+            alt=""
+          />
+        </div>
       </div>
     </div>
   )

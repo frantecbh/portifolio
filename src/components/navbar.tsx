@@ -33,7 +33,7 @@ export const NavBar = () => {
       <div
         className={
           nav
-            ? 'fixed h-full left-0 top-0 w-[50%] bg-slate-950 ease-in-out duration-500'
+            ? 'z-10 fixed h-full left-0 top-0 w-[50%] bg-slate-950 ease-in-out duration-500'
             : 'fixed left-[-100%]'
         }
       >
