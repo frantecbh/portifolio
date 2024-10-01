@@ -1,5 +1,6 @@
 import { About } from '../components/about'
 import { Contact } from '../components/conatact'
+import { Footer } from '../components/footer'
 import { Hero } from '../components/hero'
 import { NavBar } from '../components/navbar'
 import { Skills } from '../components/skills'
@@ -14,6 +15,7 @@ export const Home = () => {
       <About />
       <Projetos />
       <Contact />
+      <Footer />
     </div>
   )
 }
