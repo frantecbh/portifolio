@@ -1,4 +1,5 @@
 import { About } from '../components/about'
+import { Contact } from '../components/conatact'
 import { Hero } from '../components/hero'
 import { NavBar } from '../components/navbar'
 import { Skills } from '../components/skills'
@@ -12,6 +13,7 @@ export const Home = () => {
       <Skills />
       <About />
       <Projetos />
+      <Contact />
     </div>
   )
 }

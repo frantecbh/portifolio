@@ -7,7 +7,7 @@ import gallery from '../asset/projetos/gallery.png'
 
 export const Projetos = () => {
   return (
-    <div className="max-w-6xl mx-auto p-5 h-screen" id="work">
+    <div className="max-w-6xl mx-auto p-5" id="work">
       <div className="pb-8">
         <p className="text-4xl mb-3 font-bold primary-color">Projetos</p>
         <p>Veja alguns projetos criados por mim</p>
